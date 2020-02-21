@@ -1,4 +1,4 @@
-Internship Program 2018 Project
+React Project
 ===
 
 ## Requirements
